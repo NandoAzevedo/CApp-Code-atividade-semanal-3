@@ -1,0 +1,31 @@
+#getyour{
+width: 25.28vh;
+height: 2.88vh;
+left: 21.6vh;
+top: 19.52vh;
+position: relative;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 18px;
+color: #217BF4;
+}
+#youcan{
+    position: relative;
+width: 57.073170731707314vh;
+height: 16.910569105691057vh;
+left: 21.951219512195124vh;
+top: 24.390243902439025vh;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 52px;
+/* or 144% */
+
+
+color: #0A093D;
+
+}
